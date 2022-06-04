@@ -1,7 +1,7 @@
 # AI_ART_BOOM
 
 
-##AI Art Colab Lists
+## AI Art Colab Lists
 https://pharmapsychotic.com/tools.html
 
 https://ljvmiranda921.github.io/notebook/2021/08/08/clip-vqgan/
@@ -21,12 +21,12 @@ https://docs.google.com/document/d/1ON4unvrGC2fSEAHMVb4idopPlWmzM0Lx5cxiOXG47k4/
 
 
 
-##Spreadsheet of Artist Styles
+## Spreadsheet of Artist Styles
 https://docs.google.com/spreadsheets/d/1P9fM68jKeA1IH45i_qXINu2QhIcmCJXQSdLTxRI23oE/edit#gid=0
 
 
 
-##Standalone Apps & Websites
+## Standalone Apps & Websites
 https://beta.openai.com/docs/quickstart/build-your-application
 
 https://www.wombo.art/
@@ -43,7 +43,7 @@ https://discord.gg/7PWNwauKzU
 
 
 
-FAVE GOOGLE COLABS & GITHUBS
+## FAVE GOOGLE COLABS & GITHUBS
 
 https://pollinations.ai/c/Video
  (WHAT VINCE USES)
