@@ -2,23 +2,40 @@
 
 AI Art Colab Lists
 https://pharmapsychotic.com/tools.html
+
 https://ljvmiranda921.github.io/notebook/2021/08/08/clip-vqgan/
+
 https://peakd.com/hive-177949/@kaliyuga/kaliyugas-library-of-ai-google-colab-notebooks
+
 https://github.com/dvschultz/ml-art-colabs
+
 https://github.com/pollinations/hive
+
 https://colab.research.google.com/github/pollinations/hive/blob/main/notebooks/2%20Text-To-Video/7%20CLIP-Guided%20VQGAN%20-%20Video.ipynb
+
 https://github.com/dvschultz/ml-art-colabs
+
 https://docs.google.com/document/d/1ON4unvrGC2fSEAHMVb4idopPlWmzM0Lx5cxiOXG47k4/edit
+
+
+
 
 Spreadsheet of Artist Styles
 https://docs.google.com/spreadsheets/d/1P9fM68jKeA1IH45i_qXINu2QhIcmCJXQSdLTxRI23oE/edit#gid=0
 
+
+
 Standalone Apps & Websites
 https://beta.openai.com/docs/quickstart/build-your-application
+
 https://www.wombo.art/
+
 https://apps.apple.com/us/app/starryai-art-wallpapers-hd/id1580512844
+
 https://create.starryai.com/
+
 https://www.conjure.art/app
+
 https://discord.gg/7PWNwauKzU
 
 
