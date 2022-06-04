@@ -149,7 +149,6 @@ https://infinite-nature.github.io/
 https://colab.research.google.com/github/google-research/google-research/blob/master/infinite_nature/infinite_nature_demo.ipynb
 
 
-
 ClipMatrix: text controlled 3D mesh deformation and stylization.
 https://colab.research.google.com/drive/1xoPZp1KYXkPuCpv8FP3SzITuanz1ZKH-
 
